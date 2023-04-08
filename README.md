@@ -2,6 +2,14 @@
 
 Webpage Language Validator is a Flask web application that checks if a list of URLs have been translated into a specific language. The application uses Selenium, BeautifulSoup, and Google Cloud Translate API to navigate to each URL, parse its HTML content, and detect the language of text within certain HTML tags. The results of the URL checks are displayed to the user in an easy-to-read format.
 
+## Support
+
+If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
+
+Your support is greatly appreciated!
+
 ## Installation
 
 To run this script, you will need to have Python 3 installed on your system. You will also need to install the following Python packages:
